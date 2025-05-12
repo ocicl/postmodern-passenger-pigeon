@@ -1,0 +1,9 @@
+* postmodern-passenger-pigeon
+
+Migrations for postmodern
+
+|---------+---------------------------------------------------------------|
+| source  | git:https://github.com/fisxoj/postmodern-passenger-pigeon.git |
+| commit  | fad01e6                                                              |
+| systems | postmodern-passenger-pigeon                                   |
+|---------+---------------------------------------------------------------|
